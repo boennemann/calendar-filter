@@ -17,11 +17,11 @@
   },
   "homepage": "https://github.com/boennemann/calendar-filter",
   "dependencies": {
-    "ical": "^0.3.1",
+    "ical": "^0.5.0",
     "ical-generator": "^0.2.0",
-    "lodash": "^3.5.0"
+    "lodash": "^4.16.4"
   },
   "devDependencies": {
-    "standard": "^2.11.0"
+    "standard": "^8.5.0"
   }
 }
